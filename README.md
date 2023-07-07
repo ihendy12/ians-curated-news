@@ -1,4 +1,4 @@
-# random-movie
+# ians-curated-news
 
 ## Project setup
 ```
